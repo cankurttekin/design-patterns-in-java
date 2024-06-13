@@ -14,6 +14,6 @@ public abstract class DataSourceDecorator implements DataSource {
 
     @Override
     public String readData() {
-        return  wrappee.
+        return  wrappee.readData();
     }
 }
