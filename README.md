@@ -17,6 +17,17 @@
 - [Proxy](https://github.com/cankurttekin/design-patterns-in-java/tree/main/ProxyPattern)
 
 ### Behavioral Patterns
+- [Chain of Responsibility](https://github.com/cankurttekin/design-patterns-in-java/tree/main/ChainOfResponsibilityPattern)
+- [Command](https://github.com/cankurttekin/design-patterns-in-java/tree/main/CommandPattern)
+- [Iterator](https://github.com/cankurttekin/design-patterns-in-java/tree/main/IteratorPattern)
+- [Mediator](https://github.com/cankurttekin/design-patterns-in-java/tree/main/MediatorPattern)
+- [Memento](https://github.com/cankurttekin/design-patterns-in-java/tree/main/MementoPattern)
+- [Observer](https://github.com/cankurttekin/design-patterns-in-java/tree/main/ObserverPattern)
+- [State](https://github.com/cankurttekin/design-patterns-in-java/tree/main/StatePattern)
+- [Strategy](https://github.com/cankurttekin/design-patterns-in-java/tree/main/StrategyPattern)
+- [Template Method](https://github.com/cankurttekin/design-patterns-in-java/tree/main/TemplateMethodPattern)
+- [Visitor](https://github.com/cankurttekin/design-patterns-in-java/tree/main/VisitorPattern)
+
 
 ### Resources
 Book [Dive into Design Patterns by Alexander Shvets](https://refactoring.guru/design-patterzns/book)
